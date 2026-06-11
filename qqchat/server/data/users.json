@@ -1,0 +1,42 @@
+[
+  {
+    "id": "user1",
+    "username": "user1",
+    "password": "123456",
+    "nickname": "user1",
+    "token": "60e4aa04-c3f0-435c-95f3-813e908cc2dc",
+    "createdAt": 1700000000000
+  },
+  {
+    "id": "user2",
+    "username": "user2",
+    "password": "123456",
+    "nickname": "user2",
+    "token": "2efc2303-98ec-48f1-899a-0aad4beeeec9",
+    "createdAt": 1700000000000
+  },
+  {
+    "id": "user3",
+    "username": "user3",
+    "password": "123456",
+    "nickname": "user3",
+    "token": "8b4f2182-d364-4ad5-846a-18a379196205",
+    "createdAt": 1700000000000
+  },
+  {
+    "id": "lhe",
+    "username": "lhe",
+    "password": "123456",
+    "nickname": "lhe",
+    "token": "8894f9ef-e78e-4f01-bcd3-6d489f74b460",
+    "createdAt": 1781162913598
+  },
+  {
+    "id": "haola",
+    "username": "haola",
+    "password": "957411",
+    "nickname": "haola",
+    "token": "4c5650ed-fcf5-475e-b0e1-04ba62d08092",
+    "createdAt": 1781164807139
+  }
+]
